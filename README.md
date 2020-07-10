@@ -1,16 +1,16 @@
-### Hi there 👋
+## Welcome on my profile!
 
-<!--
-**Xwilarg/Xwilarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Christian Chaux and I'm currently a 4th year student at the french school of EPITECH<br/>
+But I also really like working on some personal projects on my free time (you can see them if you scroll down a bit)<br/>
+Aside from programming, I also enjoy playing some video games or reading books<br/>
+If you want more info about me, feel free to visit [my website](https://zirk.eu/)
 
-Here are some ideas to get you started:
+## Need help using one of my project?
+Feel free to open issues on the GitHub page of my projects if you need anything
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want a more direct way, you can also either contact me by mail (at xwilarg@yahoo.fr) or on Discord (either by adding Zirk#0001 or by coming to my [support server](H6wMRYV))
+
+## Want to support me?
+The easiest way you can do that is to leave a star on the project!
+
+If you want to do more, you can leave a comment on the website where the project is distributed or support me using [GitHub sponsor](https://github.com/sponsors/Xwilarg/)
