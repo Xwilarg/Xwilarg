@@ -10,6 +10,9 @@ Feel free to open issues on the GitHub page of my projects if you need anything
 
 If you want a more direct way, you can also either contact me by mail (at xwilarg@yahoo.fr) or on Discord (either by adding Zirk#0001 or by coming to my [support server](H6wMRYV))
 
+## Want to add a new feature?
+If you want to add a new feature to one of my projects feel free to open a pull request on any of them!
+
 ## Want to support me?
 The easiest way you can do that is to leave a star on the project!
 
