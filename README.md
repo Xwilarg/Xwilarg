@@ -1,19 +1,26 @@
 ## Welcome on my profile!
 
-My name is Christian Chaux and I'm currently a 5th year student at the french school of EPITECH<br/>
-But I also really like working on some personal projects on my free time (you can see them if you scroll down a bit)<br/>
-Aside from programming, I also enjoy playing some video games or reading books<br/>
-If you want more info about me, feel free to visit [my website](https://zirk.eu/)
+My name is Christian Chaux and I'm a software developer, mainly doing C# but sometimes a bit of JS/TS and C++\
+I also like working on some personal projects on my free time, all of them are on my GitHub (scroll down a bit to see them!)
 
-## Need help using one of my project?
-Feel free to open issues on the GitHub page of my projects if you need anything
+Aside from programming, I also enjoy playing some video games or reading books, feel free to check [my website](https://zirk.eu/) if you want to know more
 
-If you want a more direct way, you can also either contact me by mail (at xwilarg@yahoo.fr) or on Discord (either by adding Zirk#0001 or by coming to my [support server](H6wMRYV))
+### Contact
+You can either send me a mail or add me on Discord (either by adding Zirk#0001 or by coming to my [support server](https://discord.gg/H6wMRYV))
 
-## Want to add a new feature?
-If you want to add a new feature to one of my projects feel free to open a pull request on any of them!
+## About my projects
 
-## Want to support me?
-The easiest way you can do that is to leave a star on the project!
+### Need help/new feature?
+Feel free to open issues on the GitHub page of my projects if you need anything, you can also just contact me if you want to speak directly
 
-If you want to do more, you can leave a comment on the website where the project is distributed or support me using [GitHub sponsor](https://github.com/sponsors/Xwilarg/)
+Depending of the project I may or not add it (depending of the size of the feature and if I'm still maintaining the project), but hey, you might as well try
+
+### Contributing
+I'm accepting pull requests on all my projects, feel free to fork them and add stuff.
+
+### Others
+If you want to support me, please star the projects you like!\
+If you want to go further, I also have a [GitHub sponsor](https://github.com/sponsors/Xwilarg/)
+
+## Footnote
+I wish I had more hot color in my "Pinned Projects" section but I guess I'm condemned to use languages that are either green or blue
